@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/grazielabitencourt/Grazielabitencourt/main/profile-summary-card-output/yeblu/4-productive-time.svg)
-```
-
-    
